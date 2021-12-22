@@ -1,1 +1,2 @@
 # odin-recipes
+This project is aimed at listing recipes to various meals. In this project I will look to utilize my recent understanding of HTML as a language for website development. I will look to add all components of what I have learned. This includes: boilerplate, headings, title, paragraphs, images, links, bold text, italicized text, and lists. I also will look to display my understanding of connecting my HTML code to github so that others can access it. 
