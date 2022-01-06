@@ -1,0 +1,11 @@
+body{
+    background-color: #e7ebec;
+}
+
+h1,
+p,
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+
